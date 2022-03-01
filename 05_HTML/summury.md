@@ -43,11 +43,11 @@ Pada task ini, membuat jembatan hasil dari pembelajaran proses concurrent yang d
 
 Berikut kode hasil dari praktikum ini.
 
-[index_jembatan.go](../praktikum/index_html/index.go)
+[index_jembatan.go](./praktikum/index_html/index.go)
 
-[form_jembatan.go](../praktikum/form_html/form.go)
+[form_jembatan.go](./praktikum/form_html/form.go)
 
-[welcome_jembatan.go](../praktikum/welcome_html/welcome.go)
+[welcome_jembatan.go](./praktikum/welcome_html/welcome.go)
 
 output:
 
