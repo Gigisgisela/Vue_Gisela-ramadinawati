@@ -51,6 +51,6 @@ Berikut kode hasil dari praktikum ini.
 
 output:
 
-![index](../screenshot/ss_index.png)
-![form](../screenshot/ss_form.png)
-![welcome](../screenshot/ss_welcome.png)
+![index](./screenshot/ss_index.png)
+![form](./screenshot/ss_form.png)
+![welcome](./screenshot/ss_welcome.png)
