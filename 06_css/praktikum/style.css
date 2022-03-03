@@ -1,0 +1,71 @@
+* {
+padding: 0;
+margin: 0;
+}
+
+/* navbar */
+nav {
+    display: flex;
+    justify-content: space-around;
+    height: 65px;
+    background-color: white;
+    align-items: center;
+}
+
+nav ul {
+    display: flex;
+    list-style: none;
+    width: 20%;
+    justify-content: space-between;
+    margin-left: 50%;
+}
+nav ul li a {
+    text-decoration: none;
+    color: rgb(79, 108, 170);
+    font-size: 20px;
+}
+
+@media screen and (max-width: 768px){
+    nav ul{
+        width: 30%;
+        margin-left: 20%;
+    }
+}
+@media screen and (max-width: 576px){
+    nav ul{
+        width: 40%;
+        margin-left: 10%;
+    }
+}
+/* isi konten */
+.isi {
+    width: 100%;
+    margin-bottom: 110px;
+}
+.isi .header h1 {
+    text-align: center;
+    margin: 20px 0;
+}
+body{
+    background-image: url(sample-pattern.png);
+}
+.isi .isiKonten {
+    width: 80%;
+    margin: auto;
+    margin-bottom: 8px;
+    padding: 40px 20px;
+    background-color: white;
+}
+.isi .isiKonten h3 {
+    color: rgb(79, 108, 170);
+    margin-bottom: 20px;
+}
+/* footer */
+footer  {
+    background-color: black;
+}
+footer p {
+    text-align: center;
+    color: white;
+    padding: 20px 0;
+}
