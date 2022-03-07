@@ -1,6 +1,8 @@
 # Bootstrap
 
 ##Resume
+
+
 pengertian bootstrap
 bootstrap adalah kerangka kerja css yang sumber terbuka dan bebas untuk merancang situs web dan aplikasi web. templet desain berbasis HTML,dan css
 
@@ -17,8 +19,12 @@ komponen yang digunaakan untuk sebuah website pada bootstrap
 2. isi konten adalah bagian dimana itu adalah isi dari sebuah website kita 
 3. footer adalah bagian paling bawah dalam sebuah website yang biasanya diisi dengan informasi pembuat website 
 
-#task 
-membuat sebuah halaman website dilengkapi dengan header,isi konten,footer sesuai dan memasukan
+##task 
+
+
+membuat sebuah halaman website dilengkapi dengan header,isi konten,footer sesuai contoh 
+
+
 tampilan headear 
 ![Screenshot (3)](https://user-images.githubusercontent.com/98401396/157007999-98300fab-8a09-4af8-9038-e2f82acacc04.png)
 
