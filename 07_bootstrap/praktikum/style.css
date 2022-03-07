@@ -1,0 +1,130 @@
+* {
+    font-family: 'open sans', sans-serif;
+}
+
+/* navbar */
+.navbar-brand {
+    font-size: 16px;
+    font-weight: 500;
+    color: black !important;
+}
+.navbar-brand span {
+    color: green;
+}
+.navbar-nav .nav-item, 
+.navbar-nav .dropdown-menu {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+/* Konten 1 */
+.content-1 {
+    margin-top: 30px;
+}
+.content-1 .header {
+    color: black;
+    padding: 40px;
+    text-align: center;
+}
+.content-1 .header h1 {
+    font-size: 38px;
+    font-weight: 300;
+    opacity: 80%;
+}
+.content-1 .header p {
+    font-size: 12px;
+    font-weight: 500;
+    opacity: 60%;
+}
+.content-1 .card-content-1 {
+    margin: 40px 0;
+}
+.content-1 .card-content-1 .card-title {
+    font-size: 12px;
+    font-weight: 600;
+    opacity: 90%;
+}
+.content-1 .card-content-1 .card-text{
+    font-size: 10px;
+    font-weight: 600;
+    opacity: 60%;
+    margin-top: 12px;
+}
+.content-1 .card-content-1 .btn {
+    font-size: 10px;
+    font-weight: 600;
+    opacity: 80%;
+}
+.content-2 {
+    margin-top: 180px;
+}
+.content-2 .teks-content-2 {
+    color: black;
+    margin: 5% 2%;
+}
+.content-2 .teks-content-2 h1 {
+    margin-bottom: 5%;
+}
+.content-2 .teks-content-2 h1 .bold {
+    font-size: 38px;
+    font-weight: 500;
+    color: black;
+    opacity: 80%;
+}
+.content-2 .teks-content-2 h1 .unbold {
+    font-size: 38px;
+    font-weight: 300;
+    color: black;
+    opacity: 60%;
+}
+.content-2 .teks-content-2 .description {
+    font-size: 12px;
+    font-weight: 400;
+    opacity: 60%;
+}
+.content-2 .teks-content-2 .list {
+    margin-top: 5%;
+}
+.content-2 .teks-content-2 .list .list-item {
+    font-size: 12px;
+    font-weight: 400;
+    opacity: 60%;
+}
+
+/* footer */
+.footer {
+    margin-top: 180px;
+    font-size: 9px;
+}
+.footer .card .card-title {
+    font-size: 12px;
+    font-weight: 600;
+    margin-bottom: 18px;
+}
+.footer .card .nama-brand {
+    font-family: serif;
+    font-size: 18px;
+}
+.footer .card .card-body a{
+    display: block;
+    text-decoration: none;
+    color: white;
+    margin-bottom: 5px;
+}
+.footer .copyright p {
+    color: black;
+    margin-bottom: 0;
+    font-size: 11px;
+    text-align: center;
+    font-weight: 500;
+    opacity: 80%;
+}
+.footer .footer-content {
+    padding: 40px 0;
+}
+.footer .copyright p span {
+    color: green;
+}
+.footer .copyright {
+    margin: 20px 0;
+}
