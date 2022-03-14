@@ -39,3 +39,11 @@ dengan node.js kita dapat menjalankan kode javascript dimanapun,tidak hanya terb
 5.NPM adalah singkatan dari node package manager
 
 6. GiT adalah salah satu sistem pengontrol versi (version control system) pada proyek perangkat lunak.
+
+#task
+  
+  membuat web responsive dan membuat repository baru
+  
+ ![Screenshot (12)](https://user-images.githubusercontent.com/98401396/158149522-dd5ba8ae-cc70-424d-b965-62ea61bb372d.png)
+  
+  
