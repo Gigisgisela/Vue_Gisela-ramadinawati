@@ -1,6 +1,6 @@
-#Vue Komponen
+# Vue Komponen
 
-##Resume
+## Resume
 
 apa itu javascrit module?modul bisa berisi kelas atau pustaka fungsi untuk tujuan tertentu.modul hanya sebuah file satu kode skrip adalah satu modul.
 
@@ -43,7 +43,7 @@ beberapa fungsi pembantu yang sering di pakai:
 - destroyed -> berlangsung sebelum instance di hancurkan
 
 
-##Task
+## Task
 
 membuat sebuah todo list yang bisa diinput,serta ada tombol update dan edit yang berfungsi dengan masing masing fungsinya.
 
